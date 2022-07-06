@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//Implements a parallel array sum, and compare performance with single thread sum.
 class Summation extends Thread {
 
 private int[] arr;
